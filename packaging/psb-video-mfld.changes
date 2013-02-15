@@ -1,0 +1,44 @@
+* Fri Jan 11 2013 Peng Li <peng.li@intel.com> - 20130111.1.b96918
+- disable hardware blending at overlay deInit
+
+* Wed Oct 31 2012 Zhang Yan <yan.y.zhang@intel.com> fd25ef
+- Add the adaptation for two coordinate systems;
+
+* Thu Oct 25 2012 Zhang Yan <yan.y.zhang@intel.com> de7b80
+- Camera with Ctexture on fullview mode
+
+* Wed Oct 24 2012 Zhang Yan <yan.y.zhang@intel.com> 5b0c17
+- Enable Ctexture rotation under camera, which help camera to do clockwise 90 rotation
+
+* Fri Oct 19 2012 Zhang Yan <yan.y.zhang@intel.com> e3c630
+- H264 baseline HW encoder support.
+
+* Mon Oct 08 2012 Peng Li <peng.li@intel.com> - 20120924.1.41a961
+- license update
+
+* Mon Sep 24 2012 Zhang Yan <yan.y.zhang@intel.com> 41a961
+-Dynamic surface creation, reduce memory 40% usage for normal H264 stream;
+-Add STRIDE_1920 support to reduce memory usage;
+-Delete xrandr thread in coverlay to save system resource;
+-Delete useless packaging files;
+
+* Thu Sep 13 2012 Yan Yin <yan.yin@intel.com> submit/2.0_beta/20120831.083223@03f882f
+- fix GetDisplayAttribute() and orientation to anti-clockwise.
+
+* Mon Aug 27 2012 Zhang Yan <yan.y.zhang@intel.com> e06909
+-Enable Coverlay;
+-Add Dynamic rotation support for Coverlay and Ctexture;
+-Fix TTM leaking on Ctexture;
+-Dynamic output switch among Ctexture/Coverlay/NONE;
+-Enable Coverlay as the default;
+-Add configuration file;
+
+* Thu Jun 28 2012 Yan Yin <yan.yin@intel.com> 25afb26
+- add manifest file
+
+* Mon Jun 25 2012 Yan Yin <yan.yin@intel.com> 88a8a0e
+- fix packaging issue caused by gbs tricks
+
+* Mon June 25 2012 Yan Yin <yan.yin@intel.com> - 40cca8
+- Initial import video driver for mdfld
+
