@@ -1,3 +1,6 @@
+* Thu Feb 21 2013 Li Peng <peng.li@intel.com> submit/tizen_2.0/20130111.072132@8988036
+- only run xrandr init for coverlay path
+
 * Fri Jan 11 2013 Peng Li <peng.li@intel.com> - 20130111.1.b96918
 - disable hardware blending at overlay deInit
 
