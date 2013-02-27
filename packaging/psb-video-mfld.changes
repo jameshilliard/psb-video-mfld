@@ -1,3 +1,6 @@
+* Wed Feb 27 2013 Li Peng <peng.li@intel.com> submit/tizen_2.0/20130227.054437@ecf35ec
+- fix crash in texture video blit
+
 * Thu Feb 21 2013 Li Peng <peng.li@intel.com> submit/tizen_2.0/20130111.072132@8988036
 - only run xrandr init for coverlay path
 
