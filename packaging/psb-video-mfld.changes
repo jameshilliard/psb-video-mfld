@@ -1,3 +1,7 @@
+* Wed Mar 06 2013 Li Peng <peng.li@intel.com> accepted/tizen_2.0/20130227.204134@3c57940
+- send xdamage event for pixmap drawable
+- add mutex protection for surface create and destroy
+
 * Wed Feb 27 2013 Li Peng <peng.li@intel.com> submit/tizen_2.0/20130227.054437@ecf35ec
 - fix crash in texture video blit
 
