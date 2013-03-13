@@ -1,3 +1,6 @@
+* Wed Mar 13 2013 Li Peng <peng.li@intel.com> accepted/tizen_2.0/20130306.180705@bbfc264
+- fix green slice of 800x600 video with 270 degree rotate
+
 * Wed Mar 06 2013 Li Peng <peng.li@intel.com> accepted/tizen_2.0/20130227.204134@3c57940
 - send xdamage event for pixmap drawable
 - add mutex protection for surface create and destroy
