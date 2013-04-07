@@ -1,3 +1,6 @@
+* Sun Apr 07 2013 Li Peng <peng.li@intel.com> submit/tizen_2.1/20130327.110551@6b5c4ab
+- forcely shutdown overlay hardware before enabling ctexture path
+
 * Wed Mar 13 2013 Li Peng <peng.li@intel.com> accepted/tizen_2.0/20130306.180705@bbfc264
 - fix green slice of 800x600 video with 270 degree rotate
 
