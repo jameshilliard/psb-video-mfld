@@ -1,3 +1,6 @@
+* Tue Apr 16 2013 Li Peng <peng.li@intel.com> submit/tizen_2.1/20130407.080246@4e6cc88
+- another fix of 1080P video on coverlay with 270 degree rotation
+
 * Sun Apr 07 2013 Li Peng <peng.li@intel.com> submit/tizen_2.1/20130327.110551@6b5c4ab
 - forcely shutdown overlay hardware before enabling ctexture path
 
