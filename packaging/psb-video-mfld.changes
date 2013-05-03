@@ -1,3 +1,6 @@
+* Fri May 03 2013 Li Peng <peng.li@intel.com> submit/tizen_2.1/20130416.065150@7d5b6d2
+- fix of 1080P video on coverlay with 180 degree rotation
+
 * Tue Apr 16 2013 Li Peng <peng.li@intel.com> submit/tizen_2.1/20130407.080246@4e6cc88
 - another fix of 1080P video on coverlay with 270 degree rotation
 
