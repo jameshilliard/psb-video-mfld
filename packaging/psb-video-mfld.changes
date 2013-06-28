@@ -1,3 +1,6 @@
+* Fri Jun 28 2013 Li Peng <peng.li@intel.com> submit/tizen_2.2/20130613.140536@669ed41
+- Updated PVR2D and DRI2 code to work with the 1.9DDK
+
 * Wed May 13 2013 Zhang Yan <yan.y.zhang@intel.com> 5097a6
 - Fix video on texture with 270 rotation with 32bit aligned padding data
 
